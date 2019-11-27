@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/*.apk
+/app/manifest-merger-release-report.txt
+*.iml
+*.log
+.project
+codeiris
